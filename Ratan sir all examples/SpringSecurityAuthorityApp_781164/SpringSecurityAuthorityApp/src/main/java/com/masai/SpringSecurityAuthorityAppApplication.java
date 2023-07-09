@@ -8,6 +8,6 @@ public class SpringSecurityAuthorityAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringSecurityAuthorityAppApplication.class, args);
+	System.out.println("d");
 	}
-
 }
